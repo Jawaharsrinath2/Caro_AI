@@ -260,7 +260,7 @@ def main():
                         <div style="width:100%; overflow-x:auto; border:1px solid #ccc; padding:10px; background-color: white;">
                             {roadmap_svg}
                         </div>
-                    """, height=450, scrolling=True)
+                    """)
                 else:
                     st.info("Visual roadmap not available. Gemini might not have generated it or there was an error.")
 
