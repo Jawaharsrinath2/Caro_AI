@@ -44,10 +44,10 @@ Deployment: Hugging Face Spaces
 
 🖼️ Demo Screens  
 
-- Resume Upload + Skills Extraction**  
-- Career Roadmap (AI generated)**  
-- Skill Gap Analysis Dashboard**  
-- YouTube Recommendations + QR Code**  
+- Resume Upload + Skills Extraction  
+- Career Roadmap (AI generated)  
+- Skill Gap Analysis Dashboard  
+- YouTube Recommendations + QR Code  
 
 ---
 
@@ -71,6 +71,7 @@ export GEMINI_API_KEY="your_api_key_here"
 
 4. Run locally
 streamlit run app.py
+---
 
 👨‍💻 Author
 
