@@ -1,0 +1,82 @@
+{
+  "web_development": {
+    "english": {
+      "full_course": "https://www.youtube.com/watch?v=3JluqTojuME",
+      "crash_course": "https://www.youtube.com/watch?v=UB1O30fR-EE"
+    },
+    "tamil": {
+      "full_course": "https://www.youtube.com/watch?v=tamil_web_full_course",
+      "crash_course": "https://www.youtube.com/watch?v=tamil_web_crash_course"
+    }
+  },
+  "data_science": {
+    "english": {
+      "full_course": "https://www.youtube.com/watch?v=ua-CiDNNj30",
+      "crash_course": "https://www.youtube.com/watch?v=LHBE6Q9XlzI"
+    },
+    "tamil": {
+      "full_course": "https://www.youtube.com/watch?v=tamil_ds_full_course",
+      "crash_course": "https://www.youtube.com/watch?v=tamil_ds_crash_course"
+    }
+  },
+  "ai_ml": {
+    "english": {
+      "full_course": "https://www.youtube.com/watch?v=GwIo3gDZCVQ",
+      "crash_course": "https://www.youtube.com/watch?v=aircAruvnKk"
+    },
+    "tamil": {
+      "full_course": "https://www.youtube.com/watch?v=tamil_ai_full_course",
+      "crash_course": "https://www.youtube.com/watch?v=tamil_ai_crash_course"
+    }
+  },
+  "mobile_apps": {
+    "english": {
+      "full_course": "https://www.youtube.com/watch?v=fq4N0hgOWzU",
+      "crash_course": "https://www.youtube.com/watch?v=5qQTZXaH05M"
+    },
+    "tamil": {
+      "full_course": "https://www.youtube.com/watch?v=tamil_mobile_full_course",
+      "crash_course": "https://www.youtube.com/watch?v=tamil_mobile_crash_course"
+    }
+  },
+  "cybersecurity": {
+    "english": {
+      "full_course": "https://www.youtube.com/watch?v=inWWhr5tnEA",
+      "crash_course": "https://www.youtube.com/watch?v=7S9aN5u5J6w"
+    },
+    "tamil": {
+      "full_course": "https://www.youtube.com/watch?v=tamil_cyber_full_course",
+      "crash_course": "https://www.youtube.com/watch?v=tamil_cyber_crash_course"
+    }
+  },
+  "cloud_computing": {
+    "english": {
+      "full_course": "https://www.youtube.com/watch?v=5o8kGxq4y7s",
+      "crash_course": "https://www.youtube.com/watch?v=7Lthm-7l8gQ"
+    },
+    "tamil": {
+      "full_course": "https://www.youtube.com/watch?v=tamil_cloud_full_course",
+      "crash_course": "https://www.youtube.com/watch?v=tamil_cloud_crash_course"
+    }
+  },
+  "ui_ux_design": {
+    "english": {
+      "full_course": "https://www.youtube.com/watch?v=Vs8I33l-bfM",
+      "crash_course": "https://www.youtube.com/watch?v=Ovj4hFxko7c"
+    },
+    "tamil": {
+      "full_course": "https://www.youtube.com/watch?v=tamil_uiux_full_course",
+      "crash_course": "https://www.youtube.com/watch?v=tamil_uiux_crash_course"
+    }
+  },
+  "devops": {
+    "english": {
+      "full_course": "https://www.youtube.com/watch?v=0yWAtQ6wYNM",
+      "crash_course": "https://www.youtube.com/watch?v=5XgBd6rjuDQ"
+    },
+    "tamil": {
+      "full_course": "https://www.youtube.com/watch?v=tamil_devops_full_course",
+      "crash_course": "https://www.youtube.com/watch?v=tamil_devops_crash_course"
+    }
+  }
+}
